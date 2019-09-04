@@ -1,0 +1,11 @@
+C:\Users\rkaruppaiah\Desktop\RaguWS\VisualStudioWs\MerchantOfGalaxy\MerchantOfGalaxy\bin\Debug\netcoreapp2.1\MerchantOfGalaxy.deps.json
+C:\Users\rkaruppaiah\Desktop\RaguWS\VisualStudioWs\MerchantOfGalaxy\MerchantOfGalaxy\bin\Debug\netcoreapp2.1\MerchantOfGalaxy.runtimeconfig.json
+C:\Users\rkaruppaiah\Desktop\RaguWS\VisualStudioWs\MerchantOfGalaxy\MerchantOfGalaxy\bin\Debug\netcoreapp2.1\MerchantOfGalaxy.runtimeconfig.dev.json
+C:\Users\rkaruppaiah\Desktop\RaguWS\VisualStudioWs\MerchantOfGalaxy\MerchantOfGalaxy\bin\Debug\netcoreapp2.1\MerchantOfGalaxy.dll
+C:\Users\rkaruppaiah\Desktop\RaguWS\VisualStudioWs\MerchantOfGalaxy\MerchantOfGalaxy\bin\Debug\netcoreapp2.1\MerchantOfGalaxy.pdb
+C:\Users\rkaruppaiah\Desktop\RaguWS\VisualStudioWs\MerchantOfGalaxy\MerchantOfGalaxy\obj\Debug\netcoreapp2.1\MerchantOfGalaxy.csprojAssemblyReference.cache
+C:\Users\rkaruppaiah\Desktop\RaguWS\VisualStudioWs\MerchantOfGalaxy\MerchantOfGalaxy\obj\Debug\netcoreapp2.1\MerchantOfGalaxy.csproj.CoreCompileInputs.cache
+C:\Users\rkaruppaiah\Desktop\RaguWS\VisualStudioWs\MerchantOfGalaxy\MerchantOfGalaxy\obj\Debug\netcoreapp2.1\MerchantOfGalaxy.AssemblyInfoInputs.cache
+C:\Users\rkaruppaiah\Desktop\RaguWS\VisualStudioWs\MerchantOfGalaxy\MerchantOfGalaxy\obj\Debug\netcoreapp2.1\MerchantOfGalaxy.AssemblyInfo.cs
+C:\Users\rkaruppaiah\Desktop\RaguWS\VisualStudioWs\MerchantOfGalaxy\MerchantOfGalaxy\obj\Debug\netcoreapp2.1\MerchantOfGalaxy.dll
+C:\Users\rkaruppaiah\Desktop\RaguWS\VisualStudioWs\MerchantOfGalaxy\MerchantOfGalaxy\obj\Debug\netcoreapp2.1\MerchantOfGalaxy.pdb

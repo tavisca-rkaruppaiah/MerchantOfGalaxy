@@ -1,0 +1,17 @@
+C:\Users\rkaruppaiah\Desktop\RaguWS\VisualStudioWs\MerchantOfGalaxy\MerchantOfGalaxy.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\rkaruppaiah\Desktop\RaguWS\VisualStudioWs\MerchantOfGalaxy\MerchantOfGalaxy.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\rkaruppaiah\Desktop\RaguWS\VisualStudioWs\MerchantOfGalaxy\MerchantOfGalaxy.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\rkaruppaiah\Desktop\RaguWS\VisualStudioWs\MerchantOfGalaxy\MerchantOfGalaxy.Tests\bin\Debug\netcoreapp2.1\MerchantOfGalaxy.Tests.deps.json
+C:\Users\rkaruppaiah\Desktop\RaguWS\VisualStudioWs\MerchantOfGalaxy\MerchantOfGalaxy.Tests\bin\Debug\netcoreapp2.1\MerchantOfGalaxy.Tests.runtimeconfig.json
+C:\Users\rkaruppaiah\Desktop\RaguWS\VisualStudioWs\MerchantOfGalaxy\MerchantOfGalaxy.Tests\bin\Debug\netcoreapp2.1\MerchantOfGalaxy.Tests.runtimeconfig.dev.json
+C:\Users\rkaruppaiah\Desktop\RaguWS\VisualStudioWs\MerchantOfGalaxy\MerchantOfGalaxy.Tests\bin\Debug\netcoreapp2.1\MerchantOfGalaxy.Tests.dll
+C:\Users\rkaruppaiah\Desktop\RaguWS\VisualStudioWs\MerchantOfGalaxy\MerchantOfGalaxy.Tests\bin\Debug\netcoreapp2.1\MerchantOfGalaxy.Tests.pdb
+C:\Users\rkaruppaiah\Desktop\RaguWS\VisualStudioWs\MerchantOfGalaxy\MerchantOfGalaxy.Tests\bin\Debug\netcoreapp2.1\MerchantOfGalaxy.dll
+C:\Users\rkaruppaiah\Desktop\RaguWS\VisualStudioWs\MerchantOfGalaxy\MerchantOfGalaxy.Tests\bin\Debug\netcoreapp2.1\MerchantOfGalaxy.pdb
+C:\Users\rkaruppaiah\Desktop\RaguWS\VisualStudioWs\MerchantOfGalaxy\MerchantOfGalaxy.Tests\obj\Debug\netcoreapp2.1\MerchantOfGalaxy.Tests.csprojAssemblyReference.cache
+C:\Users\rkaruppaiah\Desktop\RaguWS\VisualStudioWs\MerchantOfGalaxy\MerchantOfGalaxy.Tests\obj\Debug\netcoreapp2.1\MerchantOfGalaxy.Tests.csproj.CoreCompileInputs.cache
+C:\Users\rkaruppaiah\Desktop\RaguWS\VisualStudioWs\MerchantOfGalaxy\MerchantOfGalaxy.Tests\obj\Debug\netcoreapp2.1\MerchantOfGalaxy.Tests.AssemblyInfoInputs.cache
+C:\Users\rkaruppaiah\Desktop\RaguWS\VisualStudioWs\MerchantOfGalaxy\MerchantOfGalaxy.Tests\obj\Debug\netcoreapp2.1\MerchantOfGalaxy.Tests.AssemblyInfo.cs
+C:\Users\rkaruppaiah\Desktop\RaguWS\VisualStudioWs\MerchantOfGalaxy\MerchantOfGalaxy.Tests\obj\Debug\netcoreapp2.1\MerchantOfGalaxy.Tests.csproj.CopyComplete
+C:\Users\rkaruppaiah\Desktop\RaguWS\VisualStudioWs\MerchantOfGalaxy\MerchantOfGalaxy.Tests\obj\Debug\netcoreapp2.1\MerchantOfGalaxy.Tests.dll
+C:\Users\rkaruppaiah\Desktop\RaguWS\VisualStudioWs\MerchantOfGalaxy\MerchantOfGalaxy.Tests\obj\Debug\netcoreapp2.1\MerchantOfGalaxy.Tests.pdb
